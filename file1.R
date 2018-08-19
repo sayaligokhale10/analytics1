@@ -5,3 +5,4 @@ git config --global user.name "Sayaligokhale10"
 women
 state.area
 state.name
+plot(women)
